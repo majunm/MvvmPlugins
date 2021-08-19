@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.majunm.mvvmplugins.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.majunm.mvvmplugins.MyBundle
 
 class MyApplicationService {
 
